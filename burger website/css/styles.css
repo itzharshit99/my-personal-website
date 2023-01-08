@@ -1,0 +1,62 @@
+#img {
+    padding-left: 200px;
+    
+}
+#text {
+    padding-left: 300px;
+}
+.nav-item {
+    font-size: large;
+    margin-right: 30px;
+}
+#title {
+    background-color: #e0ebe8;
+}
+.heading{
+    font-size: 100px;
+    font-family: 'Passions Conflict', cursive;
+    font-weight: bolder;
+    color: #39B5E0;
+}
+.heading3 {
+    color:#39B5E0;
+}
+.mountain-image{
+    height: 400px;
+    width: 400px;
+}
+.cloud-1 {
+    margin-left: 1000px;
+}
+.cloud-2{
+    margin-left: 400px;
+}
+.mid {
+    padding-top: 40px;
+}
+.para {
+    font-size: 1.5em;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin: 20px 200px 100px 200px;
+}
+.heading2{
+    margin-top: 20px;
+    color: #39B5E0;
+}
+.foot{
+    background-color: #e0ebe8;
+    height: 200px;
+}
+.parab {
+    margin-left: 600px;
+    line-height: 4;
+}
+.line {
+    width: 10%;
+    border-style: none;
+    border-top: dotted;
+    border-width: 20px;
+    border-color: grey;
+    
+}
